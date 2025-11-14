@@ -16,12 +16,10 @@ This template provides a structured format for writing project.
 COMP5423-Report-Template/
 ├── COMP5423_reportTemplate.tex    # Main LaTeX document
 ├── notation.tex                    # Custom mathematical notation and commands
-├── mybib.bib                       # Bibliography database
-├── figures/                        # Directory for figures and images
+├── mybib.bib                       # Bibliography
+├── figures/                        # Directory for figures
 │   ├── goose.png
-│   ├── screenshot.png
-│   ├── sign1.png
-│   └── uw.png
+│   ├── ...
 └── settings_do_not_modify/         # Template settings (do not modify)
     ├── includes.tex                # Package includes and settings
     ├── titlepage.tex               # Title page template
@@ -49,10 +47,13 @@ pdflatex COMP5423_reportTemplate.tex
 
 #### With Overleaf
 
-1. Fork this repo:
-![](./figures/screenshot-fork.png/)
+1. Use this repo as template:
+![](./figures/create-from-template.png/)
 
-2. Import COMP5423-Report-Template repo from Overleaf:
+2. Remember to set visibility to private:
+![](./figures/set-private.png)
+
+3. Import your repo of this template from Overleaf:
 ![](./figures/screenshot.png)
 
 ## License
