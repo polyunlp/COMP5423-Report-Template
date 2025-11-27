@@ -1,8 +1,10 @@
 # COMP5423 Report Template
 <div align="center">
-<img src="figures/uw.png" alt="HKUDS%2FLightRAG | Trendshift" style="width: 333px; height: 100px;" width="333" height="100"/>
+<img src="figures/uw.png" width="30%"/>
 </div>
-
+<div align="center">
+<img src="figures/Screenshot 2025-11-27 142038.png" width="80%" />
+</div>
 
 A LaTeX template for coursework reports in **COMP5423 - Natural Language Processing** at the Hong Kong Polytechnic University.
 
